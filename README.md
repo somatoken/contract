@@ -1,0 +1,2 @@
+# contract
+soma coin contract
